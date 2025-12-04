@@ -2,7 +2,7 @@
 This repository contains materials for a case study on the relationship between average temperature and crime in Charlottesville, VA.
 
 ## Important Information
-The instructions and rubric for this assignment can be found in the hook and rubric documents. Your statistical analysis will be performed in the Python notebook titled `correlation.ipynb` in the `SCRIPTS` folder. All tasks are marked with `TODO` comments.
+The instructions and rubric for this assignment can be found in the Hook and Rubric pdf documents. Your statistical analysis will be performed in the Python notebook titled `correlation.ipynb` in the `SCRIPTS` folder. All tasks are marked with `TODO` comments.
 
 ## Data
 Crime data can be retrieved from the [UVA Open Data Portal](https://data-uvalibrary.opendata.arcgis.com/datasets/charlottesville::crime-data/about). Weather data is retrieved from the Meteostat Python library. Please ensure you have the following libraries installed (can be installed via pip if necessary) to download the necessary data and run the necessary code:
